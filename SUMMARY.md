@@ -4,5 +4,5 @@
 * [Ontology Design](ontology-design.md)
 * [Domain Ontologies](domain-ontologies.md)
 * [Basic Formal Ontology](basic-formal-ontology.md)
-* [Ontology Building Challange](ontology-building-challange.md)
+* [Ontology Building Challenge](ontology-building-challange.md)
 

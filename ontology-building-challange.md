@@ -2,7 +2,7 @@
 description: Instructions
 ---
 
-# Ontology Building Challange
+# Ontology Building Challenge
 
 ## Step 1 - Create WebProtoge accounts
 
