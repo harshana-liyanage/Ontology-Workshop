@@ -29,6 +29,8 @@ We will be building an ontology about Atrial Fibrillation
 
 Add the concepts that you have found to the upper level structure given.
 
+{% file src=".gitbook/assets/diabetes-ontology.pptx" caption="Diabetes Ontology Presentation" %}
+
 ### Step 4 - Annotate the ontology with clinical codes
 
 Find suitable codes here: [https://browser.ihtsdotools.org/](https://browser.ihtsdotools.org/) 
@@ -37,14 +39,14 @@ Find suitable codes here: [https://browser.ihtsdotools.org/](https://browser.iht
 
 
 
+
+
+hl123 
+
+BnfMuD0pgPYZp4jKmvEAUC
+
    
 
 
 
 1. 
-#### Atrial Fibrillation References
-
-Atrial fibrillation \(Understanding abnormal heart rhythm\): [https://www.heartfoundation.org.au/images/uploads/publications/CON-175\_Atrial\_Fibrillation\_WEB.PDF](https://www.heartfoundation.org.au/images/uploads/publications/CON-175_Atrial_Fibrillation_WEB.PDF) 
-
-Diagnosis and Treatment of Atrial Fibrillation: [https://www.aafp.org/afp/2016/0915/p442.pdf](https://www.aafp.org/afp/2016/0915/p442.pdf) 
-
