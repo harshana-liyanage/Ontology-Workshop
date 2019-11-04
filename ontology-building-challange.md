@@ -11,7 +11,7 @@ description: Instructions
 
 ### Step 2- Concept Identification
 
-We will be building an ontology about Atrial Fibrillation
+We will be building an ontology about Diabetes
 
 1. Assign a category of concepts to each team member
 
