@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Workshop Resources](README.md)
+* [Ontology Design](ontology-design.md)
+* [Domain Ontologies](domain-ontologies.md)
+* [Basic Formal Ontology](basic-formal-ontology.md)
+* [Ontology Building Challange](ontology-building-challange.md)
 

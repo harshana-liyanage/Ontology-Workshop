@@ -1,23 +1,26 @@
-# Introduction
+# Workshop Resources
 
-## Getting Super Powers
+## BioPortal  [https://bioportal.bioontology.org](https://bioportal.bioontology.org) 
 
-Becoming a super hero is a fairly straight forward process:
+![BioPortal Ontology Respository \( https://bioportal.bioontology.org/\)](.gitbook/assets/image%20%281%29.png)
 
-```
-$ give me super-powers
-```
+## Ontology Development tools
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+### Protege Desktop 
 
-Once you're strong enough, save the world:
+This software is a popular public-domain ontology building and editing tool. Protégé Desktop supports creation and editing of one or more ontologies in a single workspace via a completely customizable user interface. Visualization tools allow for interactive navigation of ontology relationships.
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+Download here: [https://protege.stanford.edu/products.php](https://protege.stanford.edu/products.php) 
+
+
+
+![](.gitbook/assets/image.png)
+
+## Protege Web
+
+WebProtégé is an ontology development environment for the Web that makes it easy to create, upload, modify, and share ontologies for collaborative viewing and editing.
+
+![WebProtege](.gitbook/assets/image%20%288%29.png)
 
 
 
