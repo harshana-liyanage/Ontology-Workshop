@@ -2,7 +2,7 @@
 
 ## BioPortal  [https://bioportal.bioontology.org](https://bioportal.bioontology.org) 
 
-![BioPortal Ontology Respository \( https://bioportal.bioontology.org/\)](.gitbook/assets/image%20%281%29.png)
+![BioPortal Ontology Respository \( https://bioportal.bioontology.org/\)](.gitbook/assets/image%20%282%29.png)
 
 ## Ontology Development tools
 
@@ -14,13 +14,13 @@ Download here: [https://protege.stanford.edu/products.php](https://protege.stanf
 
 
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 ## Protege Web
 
 WebProtégé is an ontology development environment for the Web that makes it easy to create, upload, modify, and share ontologies for collaborative viewing and editing.
 
-![WebProtege](.gitbook/assets/image%20%288%29.png)
+![WebProtege](.gitbook/assets/image%20%2810%29.png)
 
 
 
