@@ -20,10 +20,9 @@ We will be building an ontology about Diabetes
            a. Symptoms
 
            b. Risk factors  
-           c. Diagnosis  
-           d. Therapy
+           c. Therapy
 
-2. Use references given or online sources to identify concepts for these categories
+
 
 ### Step 3 - Build the ontology
 
