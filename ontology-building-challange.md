@@ -4,7 +4,7 @@ description: Instructions
 
 # Ontology Building Challenge
 
-## Step 1 - Create WebProtoge accounts
+## Step 1 - Create WebProtege accounts
 
 1. Visit the WebProtoge website and create an account. \(Make sure you use an email address which you have access during the workshop\)  [https://webprotege.stanford.edu](https://webprotege.stanford.edu)
 2. Write your **username** in paper given to your teams  
@@ -40,9 +40,7 @@ Find suitable codes here: [https://browser.ihtsdotools.org/](https://browser.iht
 
 
 
-hl123 
 
-BnfMuD0pgPYZp4jKmvEAUC
 
    
 
